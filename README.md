@@ -1,5 +1,6 @@
 # ISSTracker
-Tracking the ISS with the "wheretheiss.at" api.
+Tracking the ISS with the "wheretheiss.at" api. This is an experiment, and hasn't been refined. I made this script a while ago. 
+I will possibly modify this script in the future.
 
 
 # Usage
